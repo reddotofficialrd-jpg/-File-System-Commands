@@ -20,3 +20,9 @@ Here are the questions to answer for this lab:
 
 ## 🚀 Objective
 Perform basic file system commands on the target machine via SSH to locate and retrieve the required flags.
+
+<img width="982" height="666" alt="image" src="https://github.com/user-attachments/assets/e4e909ec-8b0a-4cfe-90fe-51cad2c2da99" />
+<img width="987" height="590" alt="image" src="https://github.com/user-attachments/assets/a63ddc55-1682-4464-b23b-2516b0ae58f4" />
+<img width="1587" height="387" alt="image" src="https://github.com/user-attachments/assets/f048daf6-7c88-44f0-b47d-2f909b2f274d" />
+<img width="585" height="347" alt="image" src="https://github.com/user-attachments/assets/78c15f39-1d9b-457e-9a03-02a6299620d5" />
+<img width="1592" height="397" alt="image" src="https://github.com/user-attachments/assets/43a04450-70f5-4d0f-ac73-d5093e662bfc" />
